@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 /**
  * test git
+ * test git push
+ * test git local dev push master
  */
 public class MainActivity extends AppCompatActivity {
 
